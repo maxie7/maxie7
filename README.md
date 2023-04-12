@@ -1,6 +1,6 @@
 ## Some of my Stats:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxie7)](https://github.com/maxie7/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxie7&layout=compact&theme=vision-friendly-dark)](https://github.com/maxie7/github-readme-stats)
 
 <!--
 **maxie7/maxie7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
