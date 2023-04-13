@@ -16,7 +16,7 @@ I'm a FullStack Software Engineer. You can reach me out through:
 
 ### Some of my Stats:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxie7&layout=compact&theme=vision-friendly-dark)](https://github.com/maxie7/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxie7&layout=compact&langs_count=7&hide=css,html,dockerfile&theme=vision-friendly-dark)](https://github.com/maxie7/github-readme-stats)
 
 <br />
 
