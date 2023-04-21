@@ -1,4 +1,4 @@
-### Hi there :wave:, I'm Max :suspect:
+### Hi there :wave:, I'm Max
 
 I'm a FullStack Software Engineer. You can reach me out through:
 
