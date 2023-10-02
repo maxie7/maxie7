@@ -3,7 +3,7 @@
 I'm a FullStack Software Engineer. You can reach me out through:
 
 <div>
-  <a href="https://www.linkedin.com/in/maksym-kosenko-%F0%9F%87%BA%F0%9F%87%A6-3267a684/">
+  <a href="https://www.linkedin.com/in/maksym-kosenko-3267a684/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:maxie7@proton.me">
