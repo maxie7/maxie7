@@ -1,6 +1,6 @@
 ### Hi there :wave:, I'm Max
 
-I'm a FullStack Software Engineer. You can reach me out through:
+I'm a Software Engineer. You can reach me out through:
 
 <div>
   <a href="https://www.linkedin.com/in/maksym-kosenko-3267a684/">
