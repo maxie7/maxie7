@@ -97,5 +97,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![snake gif](https://github.com/maxie7/maxie7/blob/output/github-contribution-grid-snake.gif)
