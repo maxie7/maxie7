@@ -82,6 +82,8 @@ I'm a Software Engineer. You can reach me out through:
 
 <p> <img src="https://komarev.com/ghpvc/?username=maxie7&style=flat-square&color=green" alt="maxie7 profile visits"/></p>
 
+![Snake animation](https://github.com/maxie7/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **maxie7/maxie7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
