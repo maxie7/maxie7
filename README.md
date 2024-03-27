@@ -9,9 +9,6 @@ I'm a Software Engineer. You can reach me out through:
   <a style="text-decoration:none;" href="mailto:maxie7@proton.me">
     <img src="https://img.shields.io/badge/email-green?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
-  <a style="text-decoration:none;" href="https://twitter.com/Lost7Ocean">
-    <img src="https://img.shields.io/twitter/follow/Lost7Ocean?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter) Follow" />
-  </a>
 </div>
 
 <br />
