@@ -21,6 +21,7 @@ I'm a Software Engineer. You can reach me out through:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="60" height="60"/>&nbsp;
   <img src="https://cdn.svgporn.com/logos/phoenix.svg" title="Phoenix" alt="Phoenix" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60" />&nbsp;
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253802/gatsby-icon-md.png" title="Gatsby" alt="Gatsby" width="60" height="60" />&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" title="Vue.js" alt="Vue.js" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" title="Node.js" alt="Node.js" width="60" height="60"/>&nbsp;
