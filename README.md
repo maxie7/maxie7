@@ -76,7 +76,7 @@ I'm a Software Engineer. You can reach me out through:
 
 ### Some of my Stats:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxie7&hide_progress=true&layout=compact&langs_count=6&hide=css,scss,coffeescript,html,dockerfile&theme=vision-friendly-dark)](https://github.com/maxie7/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxie7&hide_progress=true&layout=compact&langs_count=6&hide=ruby,css,scss,coffeescript,html,dockerfile&theme=vision-friendly-dark)](https://github.com/maxie7/github-readme-stats)
 
 <br />
 
