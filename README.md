@@ -18,6 +18,7 @@ I'm a Software Engineer. You can reach me out through:
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;  
   <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="60" height="60"/>&nbsp;
   <img src="https://cdn.svgporn.com/logos/phoenix.svg" title="Phoenix" alt="Phoenix" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React" alt="React" width="60" height="60"/>&nbsp;
@@ -41,6 +42,7 @@ I'm a Software Engineer. You can reach me out through:
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" title="Tailwind CSS" alt="Tailwind CSS" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" title="WebStorm" alt="WebStorm" width="60" height="60"/>&nbsp;
+  <img src="https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png" title="GoLand" alt="GoLand" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
