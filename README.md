@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%232AD62D&size=24&center=true&vCenter=true&width=550&lines=Software+Engineer;Golang+Enthusiast;Cloud+Native+Builder;Real-time+Systems+%26+AI+Tools+in+Go;Always+Learning+New+Stuff" />
+</div>
+
+<div align="center">
 
 ### Hi there :wave:, I'm Max
 
@@ -21,6 +25,12 @@ I'm a Software Engineer.
 
 
 ### My 🛸 **Tech Stack** ⚙️ 🧰 📡 🤹🏻‍♂️ 🧪 🥋 :
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaustubhgupta/Hacktoberfest2020/master/Go-Logo/Go-Logo-Blue.gif" width="220"/>
+</div>
+
 
 <img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" width="60" height="60"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" alt="JavaScript" width="60" height="60"/> 
@@ -91,6 +101,10 @@ I'm a Software Engineer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" title="rspec" alt="rspec" width="60" height="60" />&nbsp;
 <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="60" height="60"/>&nbsp;
 
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxie7&theme=react-dark&hide_border=true&area=true" />
+
 <!--
 ### Some of my Stats:
 
@@ -100,18 +114,4 @@ I'm a Software Engineer.
 
 <p> <img src="https://komarev.com/ghpvc/?username=maxie7&style=flat-square&color=green" alt="maxie7 profile visits"/></p>
 
-<!--
-**maxie7/maxie7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![snake gif](https://github.com/maxie7/maxie7/blob/output/github-contribution-grid-snake.svg)
