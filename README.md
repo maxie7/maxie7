@@ -115,6 +115,8 @@ I'm a Software Engineer.
 <p> <img src="https://komarev.com/ghpvc/?username=maxie7&style=flat-square&color=green" alt="maxie7 profile visits"/></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maxie7/maxie7/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
 
+  ![GitHub Snake Light](./dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![GitHub Snake Dark](./dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
