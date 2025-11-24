@@ -26,12 +26,6 @@ I'm a Software Engineer.
 
 ### My 🛸 **Tech Stack** ⚙️ 🧰 📡 🤹🏻‍♂️ 🧪 🥋 :
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kaustubhgupta/Hacktoberfest2020/master/Go-Logo/Go-Logo-Blue.gif" width="220"/>
-</div>
-
-
 <img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" width="60" height="60"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" alt="JavaScript" width="60" height="60"/> 
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
@@ -70,6 +64,7 @@ I'm a Software Engineer.
 <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="MrJenkins" alt="MrJenkins" width="60" height="60" />&nbsp;
 
+
 <img src="https://cdn.svgporn.com/logos/debian.svg" title="Debian" alt="Debian" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="60" height="60" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="60" height="60" />&nbsp;
@@ -106,6 +101,11 @@ I'm a Software Engineer.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxie7&theme=react-dark&hide_border=true&area=true" />
 
 <!--
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxie7&theme=matrix&no-bg=true&no-frame=true&margin-w=10" />
+</div>
+
 ### Some of my Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxie7&hide_progress=true&layout=compact&langs_count=6&hide=ruby,css,scss,coffeescript,html,dockerfile&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
