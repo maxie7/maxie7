@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%232AD62D&size=24&center=true&vCenter=true&width=550&lines=Software+Engineer;Golang+Enthusiast;Cloud+Native+Builder;Real-time+Systems+%26+AI+Tools+in+Go;Always+Learning+New+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%232AD62D&size=24&center=true&vCenter=true&width=550&lines=Software+Engineer;Golang+Enthusiast;Cloud+Native+Builder;Real-time+Systems+%26+AI+Tools+in+Go" />
 </div>
 
 <div align="center">
   
 ### Hi there :wave:, I'm Max
-
-I'm a Software Engineer.
 
 <a href="https://www.linkedin.com/in/maksym-kosenko-3267a684/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
