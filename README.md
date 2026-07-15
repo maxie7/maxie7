@@ -22,6 +22,27 @@
 - 🎯 Interests: **real-time apps, observability, AI tools in Go**
 
 
+---
+
+### 🚀 Featured project — [logscry](https://github.com/maxie7/logscry)
+
+**Real-time, AI-assisted log triage. Silent on noise, speaks on signal.**
+
+A single-binary CLI/TUI in Go that tails your logs in real time, scores them locally,
+and escalates **only** genuine anomalies to an LLM for a short explanation — running
+offline against a local Ollama. The interesting part is *not* calling a model on every
+line: cheap local scoring (novelty / burst / severity) with a token-budget rate limiter,
+so cost stays bounded no matter how loud the stream gets.
+
+<div align="center">
+  <a href="https://github.com/maxie7/logscry">
+    <img src="https://github.com/maxie7/logscry/raw/main/docs/demo.gif" alt="logscry demo" width="700"/>
+  </a>
+</div>
+
+`Go` · `Bubble Tea` · `Docker` · `Ollama` · real-time streaming · Apache-2.0
+
+
 ### 🧰 Tech Stack
 
 **Languages**
