@@ -47,36 +47,44 @@ so cost stays bounded no matter how loud the stream gets.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" title="Elixir" alt="Elixir" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60"/>&nbsp;
+<table><tr>
+  <td><img src="assets/icons/go.svg"         width="60" height="60" alt="Go"         title="Go"/></td>
+  <td><img src="assets/icons/typescript.svg" width="60" height="60" alt="TypeScript" title="TypeScript"/></td>
+  <td><img src="assets/icons/javascript.svg" width="60" height="60" alt="JavaScript" title="JavaScript"/></td>
+  <td><img src="assets/icons/elixir.svg"     width="60" height="60" alt="Elixir"     title="Elixir"/></td>
+  <td><img src="assets/icons/python.svg"     width="60" height="60" alt="Python"     title="Python"/></td>
+  <td><img src="assets/icons/bash.svg"       width="60" height="60" alt="Bash"       title="Bash"/></td>
+</tr></table>
 
 **Backend & Frameworks**
 
-<img src="https://cdn.svgporn.com/logos/phoenix.svg" title="Phoenix" alt="Phoenix" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="60" height="60"/>&nbsp;
+<table><tr>
+  <td><img src="assets/icons/phoenix.svg" width="60" height="60" alt="Phoenix" title="Phoenix"/></td>
+  <td><img src="assets/icons/nodejs.svg"  width="60" height="60" alt="Node.js" title="Node.js"/></td>
+  <td><img src="assets/icons/nestjs.svg"  width="60" height="60" alt="NestJS"  title="NestJS"/></td>
+  <td><img src="assets/icons/react.svg"   width="60" height="60" alt="React"   title="React"/></td>
+  <td><img src="assets/icons/vuejs.svg"   width="60" height="60" alt="Vue.js"  title="Vue.js"/></td>
+</tr></table>
 
 **Data**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+<table><tr>
+  <td><img src="assets/icons/postgresql.svg"    width="60" height="60" alt="PostgreSQL"    title="PostgreSQL"/></td>
+  <td><img src="assets/icons/redis.svg"         width="60" height="60" alt="Redis"         title="Redis"/></td>
+  <td><img src="assets/icons/elasticsearch.svg" width="60" height="60" alt="Elasticsearch" title="Elasticsearch"/></td>
+  <td><img src="assets/icons/graphql.svg"       width="60" height="60" alt="GraphQL"       title="GraphQL"/></td>
+  <td><img src="assets/icons/mongodb.svg"       width="60" height="60" alt="MongoDB"       title="MongoDB"/></td>
+</tr></table>
 
 **Cloud & Observability**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="60" height="60"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="60" height="60"/>&nbsp;
+<table><tr>
+  <td><img src="assets/icons/docker.svg"   width="60" height="60" alt="Docker"   title="Docker"/></td>
+  <td><img src="assets/icons/aws.png"      width="60" height="60" alt="AWS"      title="AWS"/></td>
+  <td><img src="assets/icons/grafana.svg"  width="60" height="60" alt="Grafana"  title="Grafana"/></td>
+  <td><img src="assets/icons/nginx.svg"    width="60" height="60" alt="Nginx"    title="Nginx"/></td>
+  <td><img src="assets/icons/rabbitmq.svg" width="60" height="60" alt="RabbitMQ" title="RabbitMQ"/></td>
+</tr></table>
 
 ### 📈 Contribution Activity
 
