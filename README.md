@@ -6,12 +6,7 @@
 
 ### Hi there :wave:, I'm Max
 
-<a href="https://www.linkedin.com/in/max-kosenko/">
-  <img src="assets/badges/linkedin.svg" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:maxie7@proton.me">
-  <img src="assets/badges/email.svg" alt="Email Badge"/>
-</a>
+<a href="https://www.linkedin.com/in/max-kosenko/"><img src="assets/badges/linkedin.svg" alt="LinkedIn Badge"/></a>&nbsp;<a href="mailto:maxie7@proton.me"><img src="assets/badges/email.svg" alt="Email Badge"/></a>
 
 </div>
 
