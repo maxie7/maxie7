@@ -7,10 +7,10 @@
 ### Hi there :wave:, I'm Max
 
 <a href="https://www.linkedin.com/in/max-kosenko/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="assets/badges/linkedin.svg" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:maxie7@proton.me">
-  <img src="https://img.shields.io/badge/email-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="assets/badges/email.svg" alt="Email Badge"/>
 </a>
 
 </div>
@@ -79,11 +79,12 @@ so cost stays bounded no matter how loud the stream gets.
 **Cloud & Observability**
 
 <table><tr>
-  <td><img src="assets/icons/docker.svg"   width="60" height="60" alt="Docker"   title="Docker"/></td>
-  <td><img src="assets/icons/aws.png"      width="60" height="60" alt="AWS"      title="AWS"/></td>
-  <td><img src="assets/icons/grafana.svg"  width="60" height="60" alt="Grafana"  title="Grafana"/></td>
-  <td><img src="assets/icons/nginx.svg"    width="60" height="60" alt="Nginx"    title="Nginx"/></td>
-  <td><img src="assets/icons/rabbitmq.svg" width="60" height="60" alt="RabbitMQ" title="RabbitMQ"/></td>
+  <td><img src="assets/icons/docker.svg"     width="60" height="60" alt="Docker"     title="Docker"/></td>
+  <td><img src="assets/icons/terraform.svg"  width="60" height="60" alt="Terraform"  title="Terraform"/></td>
+  <td><img src="assets/icons/aws.png"        width="60" height="60" alt="AWS"        title="AWS"/></td>
+  <td><img src="assets/icons/grafana.svg"    width="60" height="60" alt="Grafana"    title="Grafana"/></td>
+  <td><img src="assets/icons/nginx.svg"      width="60" height="60" alt="Nginx"      title="Nginx"/></td>
+  <td><img src="assets/icons/rabbitmq.svg"   width="60" height="60" alt="RabbitMQ"   title="RabbitMQ"/></td>
 </tr></table>
 
 ### 📈 Contribution Activity
